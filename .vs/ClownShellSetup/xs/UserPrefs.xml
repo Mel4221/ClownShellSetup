@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{BE258047-26DD-4889-ACFC-8F9D4B0B3E59}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Installer.cs">
+    <Files>
+      <File FileName="Installer.cs" Line="19" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClownShellSetup" expanded="True">
+            <Node name="ClownShellSetup" expanded="True">
+              <Node name="Installer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ClownShellSetup PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
